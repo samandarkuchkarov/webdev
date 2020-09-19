@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     line-height: 140%;
-    max-width: 1600px;
+    width: 1600px;
     box-sizing: border-box;
 
 }
